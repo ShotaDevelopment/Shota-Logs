@@ -5,7 +5,7 @@ description 'Shota-Logs'
 
 
 
-shared_script 'shared/config.lua'
+shared_script 'config.lua'
 server_scripts {
-  'server/sv_logs.lua'
+  'sv_logs.lua'
 }
